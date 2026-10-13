@@ -6,3 +6,4 @@
 
 | スクリプト名 | 説明 | README |
 | :--- | :--- | :--- |
+| [unitypackage-tree](./unitypackage-tree/main.py) | .unitypackage の中身を解凍せずにフォルダツリー構造で可視化 | [README.md](./unitypackage-tree/README.md) |
