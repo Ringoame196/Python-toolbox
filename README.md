@@ -8,3 +8,4 @@
 | :--- | :--- | :--- |
 | [unitypackage-tree](./unitypackage-tree/main.py) | .unitypackage の中身を解凍せずにフォルダツリー構造で可視化 | [README.md](./unitypackage-tree/README.md) |
 | [vrchat-backup](./vrchat-backup/main.py) | VRChatのスクショを自宅NASに転送 | [README.md](./vrchat-backup/README.md) |
+| [task-generator](./vrchat-backup/main.py) | Todoist APIを使用して、Todoistで講義やコースのタスクを生成 | [READM.md](./task-generator/READM.md) |
